@@ -1,0 +1,12 @@
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.Form1.resources
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\Kartheek\Desktop\C#\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\Kartheek\Desktop\C#\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\Kartheek\Desktop\C#\Assignment5\obj\Debug\Assignment5.pdb

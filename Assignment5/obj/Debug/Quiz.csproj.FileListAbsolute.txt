@@ -1,0 +1,9 @@
+C:\Users\Kartheek\Desktop\C#\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\Kartheek\Desktop\C#\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\Kartheek\Desktop\C#\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\Kartheek\Desktop\C#\Assignment5\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Kartheek\Desktop\C#\Assignment5\obj\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Users\Kartheek\Desktop\C#\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\Kartheek\Desktop\C#\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\Kartheek\Desktop\C#\Assignment5\obj\Debug\Quiz.Form1.resources
+C:\Users\Kartheek\Desktop\C#\Assignment5\obj\Debug\Quiz.Properties.Resources.resources

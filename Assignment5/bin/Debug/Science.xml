@@ -1,0 +1,72 @@
+<movies>
+<question id="1">
+<ques>What is the biggest planet in our solar system??</ques>
+<wrong>Earth</wrong>
+<correct>Jupiter</correct>
+<wrong>Mars</wrong>
+<wrong>Mercury</wrong>
+</question>
+<question id="2">
+<ques>What is the chemical symbol for the element oxygen?</ques>
+<wrong>K</wrong>
+<wrong>M</wrong>
+<correct>O</correct>
+<wrong>C</wrong>
+</question>
+<question id="3">
+<ques>Pure water has a pH level of a around?</ques>
+<correct>7</correct>
+<wrong>6</wrong>
+<wrong>8</wrong>
+<wrong>5</wrong>
+</question>
+<question id="4">
+<ques>The highest mountain on earth is?</ques>
+<wrong>Mount Abu</wrong>
+<wrong>Mount Fiji</wrong>
+<correct>Mount Everest</correct>
+<wrong>Mount Chi Chi</wrong>
+</question>
+<question id="5">
+<ques>Water is made up of what two elements??</ques>
+<correct>Oxygen and Hydrogen</correct>
+<wrong>Helium and Hydrogen</wrong>
+<wrong>Nitrogen and Oxygen</wrong>
+<wrong>Lithium and Neon</wrong>
+</question>
+<question id="6">
+<ques>What is the name of the closest star to the earth?</ques>
+<wrong>Xenova</wrong>
+<wrong>Maltis</wrong>
+<wrong>Aurora</wrong>
+<correct>Sun</correct>
+</question>
+<question id="7">
+<ques>What does the abbreviation WWW stand for?</ques>
+<wrong>World Wide Winner</wrong>
+<wrong>World Wide Wild</wrong>
+<wrong>Web Wide World</wrong>
+<correct>World Wide Web</correct>
+</question>
+<question id="8">
+<ques>Firefox, Opera, Chrome, Safari and Explorer are types of what?</ques>
+<wrong>Networking websites</wrong>
+<wrong>Operating Systems</wrong>
+<wrong>Cloud Storage</wrong>
+<correct>Web Browsers</correct>
+</question>
+<question id="9">
+<ques> A thermometer is a device used to measure what?</ques>
+<wrong>Pressure</wrong>
+<wrong>Volume</wrong>
+<correct>Temperature</correct>
+<wrong>Sound</wrong>
+</question>
+<question id="10">
+<ques>What country experiences the most tornadoes?</ques>
+<wrong>UAE</wrong>
+<correct>USA</correct>
+<wrong>India</wrong>
+<wrong>Austria</wrong>
+</question>
+</movies>

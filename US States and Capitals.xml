@@ -1,0 +1,72 @@
+<capitals>
+<question id="1">
+<ques>Capital of Ohio?</ques>
+<wrong>Hamilton</wrong>
+<correct>Columbus</correct>
+<wrong>Cincinnati</wrong>
+<wrong>Cleaveland</wrong>
+</question>
+<question id="2">
+<ques>Capital of Albama?</ques>
+<wrong>Cincinnati</wrong>
+<wrong>Columbus</wrong>
+<correct>Montgomery</correct>
+<wrong>Hyderabad</wrong>
+</question>
+<question id="3">
+<ques>Capital of Colorado?</ques>
+<correct>Denver</correct>
+<wrong>Atlanta</wrong>
+<wrong>Cincinnati</wrong>
+<wrong>Dover</wrong>
+</question>
+<question id="4">
+<ques>Capital of Florida?</ques>
+<wrong>Miami</wrong>
+<wrong>Bejvon</wrong>
+<correct>Tallahasse</correct>
+<wrong>Beging</wrong>
+</question>
+<question id="5">
+<ques>Capital of USA?</ques>
+<wrong>San Diego</wrong>
+<wrong>Miami</wrong>
+<wrong>Dallas</wrong>
+<correct>Washington</correct>
+</question>
+<question id="6">
+<ques>Capital of Kentucky?</ques>
+<wrong>Indianapolis</wrong>
+<wrong>Topeka</wrong>
+<wrong>Cincinnati</wrong>
+<correct>Frankfurt</correct>
+</question>
+<question id="7">
+<ques>Capital of Illinois?</ques>
+<wrong>Chicago</wrong>
+<wrong>Covington</wrong>
+<wrong>Springdale</wrong>
+<correct>Springfield</correct>
+</question>
+<question id="8">
+<ques>Capital of New York?</ques>
+<wrong>Buffalo</wrong>
+<wrong>New York City</wrong>
+<wrong>Springdale</wrong>
+<correct>Albany</correct>
+</question>
+<question id="9">
+<ques>Capital of Texas?</ques>
+<wrong>Dallas</wrong>
+<wrong>Colorado</wrong>
+<wrong>Springwhite</wrong>
+<correct>Austin</correct>
+</question>
+<question id="10">
+<ques>Capital of Massachusetts?</ques>
+<wrong>Dallas</wrong>
+<wrong>Colorado</wrong>
+<wrong>Maryland</wrong>
+<correct>Boston</correct>
+</question>
+</capitals>

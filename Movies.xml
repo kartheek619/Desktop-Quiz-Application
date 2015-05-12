@@ -1,0 +1,72 @@
+<movies>
+<question id="1">
+<ques>Who directed the movie Interstellar?</ques>
+<wrong>James Cameroon</wrong>
+<correct>Christopher Nolan</correct>
+<wrong>Jackson</wrong>
+<wrong>Phillips</wrong>
+</question>
+<question id="2">
+<ques>Who acted the main role in Forrest Gump?</ques>
+<wrong>Bachan</wrong>
+<wrong>Cameroon White</wrong>
+<correct>Tom Hanks</correct>
+<wrong>Christina Bale</wrong>
+</question>
+<question id="3">
+<ques>Hollywood is located in?</ques>
+<correct>California</correct>
+<wrong>Atlanta</wrong>
+<wrong>Ohio</wrong>
+<wrong>Michigan</wrong>
+</question>
+<question id="4">
+<ques>Which movie is awarded with most number of oscars?</ques>
+<wrong>The dark knight</wrong>
+<wrong>Avengers</wrong>
+<correct>Titanic</correct>
+<wrong>Xmen</wrong>
+</question>
+<question id="5">
+<ques>Identify a movie directed by Christopher Nolan?</ques>
+<wrong>Titanic</wrong>
+<wrong>Avatar</wrong>
+<wrong>2012</wrong>
+<correct>The Prestige</correct>
+</question>
+<question id="6">
+<ques>The story of the movie "Ides of March" revolves around which state?</ques>
+<wrong>Illinois</wrong>
+<wrong>Atlanta</wrong>
+<wrong>California</wrong>
+<correct>Ohio</correct>
+</question>
+<question id="7">
+<ques>Who gave the music for the Oscar winning movie 'The Slumdog Millionaire'?</ques>
+<wrong>James uthappa</wrong>
+<wrong>Maroon Band</wrong>
+<wrong>Matthew Phillips</wrong>
+<correct>AR Rahaman</correct>
+</question>
+<question id="8">
+<ques>Who acted the role "Stark" in the movie Iron Man?</ques>
+<wrong>Chris Evans</wrong>
+<wrong>Jessica Alba</wrong>
+<wrong>Glwen Plathro</wrong>
+<correct>Robert Downey Jr</correct>
+</question>
+<question id="9">
+<ques>Arnold schwarzenegger acted in which of the below movies?</ques>
+<wrong>Ben Hur</wrong>
+<wrong>Inception</wrong>
+<wrong>IronMan</wrong>
+<correct>Terminator</correct>
+</question>
+<question id="10">
+<ques>Which famous wretsler acted in the movie The Marine?</ques>
+<wrong>Stone Cold</wrong>
+<wrong>Gold Berg</wrong>
+<wrong>Undertaker</wrong>
+<correct>John Cena</correct>
+</question>
+</movies>
